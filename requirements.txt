@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+time
+matplotlib.pyplot
+graphviz

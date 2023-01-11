@@ -4,8 +4,7 @@ import numpy as np
 import time
 import matplotlib.pyplot as plt
 import graphviz as graphviz
-import pickle  #to load a saved model
-import base64  #to open .gif files in streamlit app
+
 
 st.write("Basic streamlit app")
 
